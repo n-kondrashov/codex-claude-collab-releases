@@ -7,7 +7,7 @@
 ## Установка
 
 1. Установите VS Code 1.90 или новее, авторизуйте Codex CLI и Claude Code CLI в своих учётных записях.
-2. Скачайте VSIX из [последнего релиза](https://github.com/n-kondrashov/codex-claude-collab-releases/releases/latest). Первый релиз появится здесь после завершения проверок.
+2. Скачайте VSIX из [последнего релиза](https://github.com/n-kondrashov/codex-claude-collab-releases/releases/latest).
 3. Сверьте SHA-256 файла с приложенным файлом `.sha256`.
 4. В VS Code выберите **Extensions → … → Install from VSIX…**, откройте проект и нажмите значок **Codex + Claude** на боковой панели.
 
